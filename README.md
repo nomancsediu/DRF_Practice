@@ -2,7 +2,7 @@
 
 <img src="https://www.django-rest-framework.org/img/logo.png" width="220" />
 
-# 🚀 Django REST Framework Practice
+# Django REST Framework Practice
 
 Practice repository for building RESTful APIs using Django REST Framework.
 
