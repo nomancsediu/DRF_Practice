@@ -4,7 +4,7 @@
 
 # 🚀 Django REST Framework Practice
 
-Practice repository for building RESTful APIs with pagination, filtering, and token authentication using Django REST Framework.
+Practice repository for building RESTful APIs using Django REST Framework.
 
 </div>
 
@@ -34,7 +34,3 @@ Practice repository for building RESTful APIs with pagination, filtering, and to
 - SQLite  
 
 ---
-
-## 👨‍💻 Developed By
-
-**Abdullah Al Noman**
