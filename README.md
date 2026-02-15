@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_REST_framework_logo.svg" width="220" />
+<img src="https://www.django-rest-framework.org/img/logo.png" width="220" />
 
 # 🚀 Django REST Framework Practice
 
